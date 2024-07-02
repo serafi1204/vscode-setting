@@ -16,3 +16,4 @@
 ## if doesn't work.
 1. Check g++ path in "workspace/.vscode/task.json" at line 15.
 2. Ensure the MinGW environment variable is correctly set.
+2. Make sure to select "main.cpp". It debug with opened file.
