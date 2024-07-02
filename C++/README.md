@@ -1,11 +1,13 @@
 ## Installation
 1. Install [visual studio code](https://code.visualstudio.com/download).
-2. Install [mingw](https://sourceforge.net/projects/mingw/). ([referance](https://m.blog.naver.com/dorergiverny/223032334186))
-
-   Default installation Directory: C:/mingw64  
-4. Unzip [workspace.zip](https://github.com/serafi1204/vscode-setting/blob/main/C%2B%2B/workspace.zip) to your desired folder.
-5. Open the extracted workspace folder in Visual Studio Code.
-6. Run "main.cpp"
+2. Install C++ extention
+   - Navigate to the "Extension" sidebar.
+   - Install "C/C++ Extension Pack".
+4. Install [mingw](https://sourceforge.net/projects/mingw/). ([referance](https://m.blog.naver.com/dorergiverny/223032334186))
+   - Default installation Directory: C:/mingw64  
+5. Unzip [workspace.zip](https://github.com/serafi1204/vscode-setting/blob/main/C%2B%2B/workspace.zip) to your desired folder.
+6. Open the extracted workspace folder in Visual Studio Code.
+7. Run "main.cpp"
     - Open main.cpp in workspace.
     - Navigate to the "Run and Debug" sidebar.
     - Select the "(gdb) Launch" configuration
